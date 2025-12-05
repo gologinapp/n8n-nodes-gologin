@@ -108,11 +108,11 @@ export const workspaceFields: INodeProperties[] = [
       },
     },
     options: [
-      { name: 'None', value: '' },
       { name: 'M1', value: 'M1' },
       { name: 'M2', value: 'M2' },
       { name: 'M3', value: 'M3' },
       { name: 'M4', value: 'M4' },
+      { name: 'None', value: '' },
       { name: 'Windows 11', value: 'win11' },
     ],
     default: '',
