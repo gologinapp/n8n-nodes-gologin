@@ -1,6 +1,6 @@
 {
     "name": "n8n-nodes-gologin",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "n8n node for GoLogin API - manage browser profiles, proxies, workspaces and more",
     "license": "MIT",
     "homepage": "https://gologin.com",
